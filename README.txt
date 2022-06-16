@@ -1,0 +1,1 @@
+Change the styling ofMoviesCollection, add arrows to move the collections
